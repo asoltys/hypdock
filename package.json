@@ -1,0 +1,14 @@
+{
+  "name": "hypdock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hyperswarm/dht": "^4.0.1",
+    "@hyperswarm/replicator": "^1.10.0",
+    "hyperdrive": "^10.20.0",
+    "hyperspace": "^3.18.1"
+  }
+}
